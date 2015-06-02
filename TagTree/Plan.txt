@@ -1,0 +1,11 @@
+﻿
+BootStrap
+AngularJS
+TypeScript
+mongodb
+
+mobile development
+
+SOLID
+design patterns
+entityframework
